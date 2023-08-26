@@ -50,9 +50,5 @@ public class StringDeneme {
 
         System.exit(0);
 
-
-
-
-
     }
 }

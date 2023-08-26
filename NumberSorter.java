@@ -1,5 +1,3 @@
-package OtherProjects;
-
 //A short java program which gets 10 different user inputs of numbers from 1 to 100 and
 //at the end shows numbers to user in descending order.
 
